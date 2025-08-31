@@ -6,9 +6,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript (Node.js), Dart
-- **Frameworks:** Flutter, Express.js
-- **Interests:** Machine Learning, Mobile Apps, Backend Development
+- **Languages:** Python, JavaScript (Node.js), Dart, C, C++, Java, R
+- **Frameworks:** Flutter, Express.js, TensorFlow, PyTorch, OpenCV
+- **Interests:** Machine Learning, Mobile Apps, Full Stack Development, Deep Learning, Computer Vision
 
 ---
 
