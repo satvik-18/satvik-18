@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m Satvik 👋
+
+🎓 **Student Developer**  
+🚀 Passionate about building with **Flutter**, **Python**, **Node.js**, and exploring **Machine Learning**.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript (Node.js), Dart
+- **Frameworks:** Flutter, Express.js
+- **Interests:** Machine Learning, Mobile Apps, Backend Development
+
+---
+
+## 🧠 About Me
+I’m a lifelong learner who loves turning ideas into code. Whether it’s a sleek mobile app or a smart ML model, I enjoy taking on new challenges and collaborating with fellow developers.
+
+---
+
+## 💡 Motto
+> “All is as thinking makes it so.”
+
+---
 
 <!--
-**satvik-18/satvik-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to add social links, featured projects, or fun facts? Just ask and I’ll update this README for you!
 -->
